@@ -2,7 +2,6 @@ dotfiles
 ========
 
 My config files for bash, vim, etc for Linux and OSX.
-hahaha
 
 License
 -------
